@@ -23,13 +23,17 @@ I’m a builder who moves between **live production** and **systems engineering*
 ## Tech I use
 
 **Languages**
+- Japanese
+- English
 - Python
 - HTML / CSS
 
 **Tools & Platforms**
+- ChatGPT / Codex
 - Docker / Linux
 - Networking (routing, VPN, reverse proxy)
 - CAD (mechanical / enclosure design)
+- Adobe Creative Cloud
 
 ---
 
