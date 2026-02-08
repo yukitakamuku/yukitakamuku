@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi, I’m Yuki 👋
 
-<!--
-**yukitakamuku/yukitakamuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a builder who moves between live production and systems engineering — from cameras and sound at events to CAD, networking, electronics, and web work.
+	•	📸 Photo / Video
+	•	📡 Live Streaming (Camera Operator)
+	•	🎚️ PA / Audio
+	•	💡 Lighting / Production
+	•	🧩 CAD • Networking • Electronics • Web
+	•	🎓 B3 | 📍 Maebashi, Gunma (JP)
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m into
+	•	Live AV workflows: reliable setups, clean routing, low-latency monitoring, and repeatable operations
+	•	Systems & infra: self-hosting, Docker, storage/backup design, secure remote access
+	•	Electronics & embedded: microcontrollers, sensors, IO control, tools for real-world production
+	•	Web: building practical tools and sites; consulting on structure, operations, and automation
+
+⸻
+
+Tech I use
+
+Languages
+	•	Python
+	•	HTML / CSS
+
+Tools & Platforms
+	•	Docker / Linux
+	•	Networking (routing, VPN, reverse proxy)
+	•	CAD (mechanical / enclosure design)
+
+⸻
+
+Projects (highlights)
+	•	🎛️ AV / Production tools — utilities and scripts to reduce friction in on-site operation
+	•	🗄️ Self-hosted services — storage, backups, and secure access patterns
+	•	🔧 Embedded prototypes — small hardware that connects “the real world” to software
+
+I’ll add pinned repos here as the projects mature.
+
+⸻
+
+Contact / Links
+	•	Website: (add link)
+	•	Portfolio: (add link)
+	•	Instagram: (add link)
+
+⸻
+
+Notes
+	•	I value reliability, simple operations, and clean documentation.
+	•	Open to collaborations around live production tooling, automation, and practical systems.
