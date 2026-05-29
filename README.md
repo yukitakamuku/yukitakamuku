@@ -1,4 +1,4 @@
-# Hi, I’m Yuki 👋
+# Hi, I’m Takamuku 👋
 
 I’m a builder who moves between **live production** and **systems engineering** — from cameras and sound at events to CAD, networking, electronics, and web work.
 
